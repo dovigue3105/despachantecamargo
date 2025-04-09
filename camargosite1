@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Despachante Camargo LTDA - Documentação Veicular em Toledo - PR</title>
+  <meta name="description" content="Despachante Camargo LTDA - Serviços de despachante em Toledo - PR. CNPJ 36.204.833/0001-11. Telefones, endereço, e contato direto.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #004aad;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 30px auto;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    h2 {
+      color: #004aad;
+    }
+    footer {
+      text-align: center;
+      background: #222;
+      color: white;
+      padding: 20px 10px;
+      margin-top: 30px;
+      font-size: 14px;
+    }
+    .contact-info {
+      background-color: #eef;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    a {
+      color: #004aad;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .whatsapp-button {
+      display: block;
+      width: max-content;
+      margin: 20px auto;
+      padding: 12px 25px;
+      background-color: #25D366;
+      color: white;
+      font-size: 16px;
+      border-radius: 5px;
+      text-align: center;
+      text-decoration: none;
+    }
+    iframe {
+      width: 100%;
+      height: 300px;
+      border: 0;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    input, textarea {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      padding: 10px;
+      background-color: #004aad;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #003a8c;
+    }
+    .privacy {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Despachante Camargo LTDA</h1>
+    <p>Serviços especializados em documentação veicular - Toledo / PR</p>
+  </header>
+
+  <div class="container">
+    <h2>Quem Somos</h2>
+    <p>O <strong>Despachante Camargo LTDA</strong> é uma empresa especializada na regularização e documentação veicular, com sede em Toledo, Paraná. Fundada em 2020, nossa missão é proporcionar um atendimento ágil, seguro e transparente para pessoas físicas e jurídicas que precisam lidar com os trâmites burocráticos do setor de trânsito.</p>
+    <p>Contamos com uma equipe experiente, altamente capacitada e comprometida com a excelência no atendimento. Trabalhamos com serviços de transferência de veículos, licenciamento anual, emplacamento, emissão de documentos, regularização de débitos e muito mais.</p>
+    <p>Nosso objetivo é facilitar a vida dos nossos clientes, oferecendo um atendimento humanizado, orientações precisas e soluções eficientes para cada necessidade. Prezamos pela ética, confiança e responsabilidade em todas as etapas do processo.</p>
+    <p>Com o <strong>Despachante Camargo</strong>, você tem a garantia de um serviço sério, transparente e dentro da legalidade. Estamos prontos para atendê-lo com agilidade e compromisso.</p>
+
+    <h2>Informações da Empresa</h2>
+    <ul>
+      <li><strong>Razão Social:</strong> Despachante Camargo LTDA</li>
+      <li><strong>Nome Fantasia:</strong> Despachante Camargo</li>
+      <li><strong>CNPJ:</strong> 36.204.833/0001-11</li>
+      <li><strong>Data de Abertura:</strong> 31/01/2020</li>
+      <li><strong>Natureza Jurídica:</strong> Sociedade Empresária Limitada</li>
+      <li><strong>Atividade Principal:</strong> Outras atividades de serviços prestados principalmente às empresas</li>
+    </ul>
+
+    <h2>Endereço Comercial</h2>
+    <div class="contact-info">
+      <p>Rua Borges de Medeiros, 1285</p>
+      <p>Bairro Jardim Gisela</p>
+      <p>CEP: 85905-290</p>
+      <p>Toledo - Paraná - Brasil</p>
+    </div>
+
+    <h2>Contato</h2>
+    <div class="contact-info">
+      <p><strong>Telefone:</strong> <a href="tel:+554520352070">(45) 2035-2070</a></p>
+      <p><strong>Email:</strong> <a href="mailto:heisscontabilidade@hotmail.com">heisscontabilidade@hotmail.com</a></p>
+    </div>
+
+    <a class="whatsapp-button" href="https://wa.me/554520352070" target="_blank">Fale conosco no WhatsApp</a>
+
+    <h2>Localização no Google Maps</h2>
+    <iframe src="https://www.google.com/maps?q=R.+Borges+de+Medeiros,+1285+-+Jardim+Gisela,+Toledo+-+PR,+85905-290&output=embed"></iframe>
+
+    <h2>Formulário de Contato</h2>
+    <form action="mailto:heisscontabilidade@hotmail.com" method="POST" enctype="text/plain">
+      <input type="text" name="nome" placeholder="Seu nome" required>
+      <input type="email" name="email" placeholder="Seu e-mail" required>
+      <textarea name="mensagem" rows="5" placeholder="Sua mensagem" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+
+    <div class="privacy">
+      <h2>Política de Privacidade</h2>
+      <p>O Despachante Camargo LTDA respeita sua privacidade. Nenhuma informação coletada por este site será compartilhada com terceiros. Os dados enviados pelo formulário são utilizados apenas para atendimento e esclarecimentos.</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Despachante Camargo LTDA - CNPJ: 36.204.833/0001-11</p>
+  </footer>
+</body>
+</html>
